@@ -79,7 +79,7 @@ public class CommonUtility extends BaseSetup {
 	}
 
 	public void clearTextUsingSendKeys(WebElement toClear) {
-		toClear.sendKeys(Keys.CONTROL + "a");
+		toClear.sendKeys(Keys.COMMAND + "a");
 		toClear.sendKeys(Keys.DELETE);
 	}
 

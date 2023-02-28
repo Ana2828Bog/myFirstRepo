@@ -2,7 +2,7 @@ package tek.sdet.framework.utilities;
 
 import net.datafaker.Faker;
 
-public class DataGeneratorUtilities {
+public class DataGeneratorUtility {
 	public static String data(String input) {
 
 		Faker faker = new Faker();
@@ -14,11 +14,11 @@ public class DataGeneratorUtilities {
 			outPut = faker.name().lastName();
 		} else if (input.equals("email")) {
 			outPut = faker.name().firstName() + "." + faker.name().lastName() + "@tekschool.us";
-		} else if (input.equals("PhoneNumber")) {
+		} else if (input.equals("phoneNumber")) {
 			outPut = faker.phoneNumber().cellPhone();
 		} else if(input.equals("fullName")) {
 			outPut = faker.name().fullName();
-		} else if(input.equals("StreetAddress")) {
+		} else if(input.equals("streetAddress")) {
 			outPut = faker.address().streetAddress();
 		}else if(input.equals("city")) {
 			outPut = faker.address().city();

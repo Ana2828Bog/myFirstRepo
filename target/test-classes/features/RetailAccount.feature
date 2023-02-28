@@ -45,10 +45,25 @@ Feature: Retail Application Account Feature
     And User click on Card in the Wallet
     And User click on remove option of card section
     Then payment details should be removed
-    
 
+  Scenario: Verify User can add an Address
+    When User click on Account option
+    And User click on Add address option
+    And user fill new address form with below information
+      | country | fullName | phoneNumber | streetAddress | apt | city | state | zipCode |
+    And User click Add Your Address button
+    Then a message should be displayed 'Address Added Successfully'
+
+  Scenario: Verify User can edit an Address added on account
+    When User click on Account option
+    And User click on edit address option
+    And user fill new address form with below information
+      | country | fullName | phoneNumber | streetAddress | apt   | city  | state | zipCode |
+    And User click update Your Address button
+    Then a message should be displayed ‘Address Updated Successfully’
+
+  @dryRun
   Scenario: Verify User can remove Address from Account
     When User click on Account option
     And User click on remove option of Address section
     Then Address details should be removed
-    

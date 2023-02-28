@@ -18,3 +18,169 @@
 2023-02-25 00:08:52,145 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
 2023-02-25 00:08:52,679 - logger_File -INFO - user searched for product pokemon
 2023-02-25 00:08:52,792 - logger_File -INFO - the Product is displayed on home page
+2023-02-25 11:38:23,852 - logger_File -INFO - user is on retail website
+2023-02-25 11:38:23,856 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-25 11:38:24,292 - logger_File -INFO - User clicked on Sign in Option
+2023-02-25 11:38:26,331 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-25 11:38:27,877 - logger_File -INFO - user clicked on login button
+2023-02-25 11:38:31,340 - logger_File -INFO - user clicked on Account option
+2023-02-25 12:25:56,402 - logger_File -INFO - user is on retail website
+2023-02-25 12:25:56,407 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-25 12:25:56,849 - logger_File -INFO - User clicked on Sign in Option
+2023-02-25 12:25:58,938 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-25 12:25:59,848 - logger_File -INFO - user clicked on login button
+2023-02-25 12:26:04,250 - logger_File -INFO - user clicked on Account option
+2023-02-25 12:26:04,803 - logger_File -INFO - User clicked on Add address option
+2023-02-25 12:26:07,323 - logger_File -INFO - user filled new address form with below information
+2023-02-25 12:26:07,536 - logger_File -INFO - User clicked Add Your Address button
+2023-02-25 12:34:49,387 - logger_File -INFO - user is on retail website
+2023-02-25 12:34:49,393 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-25 12:34:49,843 - logger_File -INFO - User clicked on Sign in Option
+2023-02-25 12:34:52,121 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-25 12:34:53,570 - logger_File -INFO - user clicked on login button
+2023-02-25 12:34:56,660 - logger_File -INFO - user clicked on Account option
+2023-02-25 12:34:57,479 - logger_File -INFO - User clicked on Add address option
+2023-02-25 12:35:00,502 - logger_File -INFO - user filled new address form with below information
+2023-02-25 12:35:00,958 - logger_File -INFO - User clicked Add Your Address button
+2023-02-25 12:48:45,931 - logger_File -INFO - user is on retail website
+2023-02-25 12:48:45,936 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-25 12:48:46,448 - logger_File -INFO - User clicked on Sign in Option
+2023-02-25 12:48:49,625 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-25 12:48:50,393 - logger_File -INFO - user clicked on login button
+2023-02-25 12:48:53,697 - logger_File -INFO - user clicked on Account option
+2023-02-25 12:48:54,274 - logger_File -INFO - User clicked on Add address option
+2023-02-25 12:48:57,115 - logger_File -INFO - user filled new address form with below information
+2023-02-25 12:48:57,600 - logger_File -INFO - User clicked Add Your Address button
+2023-02-25 12:50:46,083 - logger_File -INFO - user is on retail website
+2023-02-25 12:50:46,089 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-25 12:50:46,526 - logger_File -INFO - User clicked on Sign in Option
+2023-02-25 12:50:50,565 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-25 12:50:51,368 - logger_File -INFO - user clicked on login button
+2023-02-25 12:50:53,535 - logger_File -INFO - user clicked on Account option
+2023-02-25 12:50:54,262 - logger_File -INFO - User clicked on Add address option
+2023-02-25 12:50:57,257 - logger_File -INFO - user filled new address form with below information
+2023-02-25 12:50:57,720 - logger_File -INFO - User clicked Add Your Address button
+2023-02-25 12:53:04,215 - logger_File -INFO - user is on retail website
+2023-02-25 12:53:04,221 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-25 12:53:04,655 - logger_File -INFO - User clicked on Sign in Option
+2023-02-25 12:53:07,993 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-25 12:53:09,250 - logger_File -INFO - user clicked on login button
+2023-02-25 12:53:11,912 - logger_File -INFO - user clicked on Account option
+2023-02-25 12:53:12,559 - logger_File -INFO - User clicked on Add address option
+2023-02-25 12:53:15,120 - logger_File -INFO - user filled new address form with below information
+2023-02-25 12:53:15,575 - logger_File -INFO - User clicked Add Your Address button
+2023-02-26 15:59:12,061 - logger_File -INFO - user is on retail website
+2023-02-26 15:59:12,067 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-26 15:59:12,632 - logger_File -INFO - User clicked on Sign in Option
+2023-02-26 15:59:14,461 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-26 15:59:15,334 - logger_File -INFO - user clicked on login button
+2023-02-26 15:59:19,871 - logger_File -INFO - user clicked on Account option
+2023-02-26 15:59:20,116 - logger_File -INFO - User clicked on remove option of Address section
+2023-02-26 16:00:26,111 - logger_File -INFO - user is on retail website
+2023-02-26 16:00:26,116 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-26 16:00:26,536 - logger_File -INFO - User clicked on Sign in Option
+2023-02-26 16:00:28,663 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-26 16:00:29,337 - logger_File -INFO - user clicked on login button
+2023-02-26 16:00:33,578 - logger_File -INFO - user clicked on Account option
+2023-02-26 16:05:11,231 - logger_File -INFO - user is on retail website
+2023-02-26 16:05:11,238 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-26 16:05:11,667 - logger_File -INFO - User clicked on Sign in Option
+2023-02-26 16:05:14,028 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-26 16:05:14,754 - logger_File -INFO - user clicked on login button
+2023-02-26 16:05:18,430 - logger_File -INFO - user clicked on Account option
+2023-02-26 16:05:18,964 - logger_File -INFO - User clicked on Add address option
+2023-02-26 16:05:22,076 - logger_File -INFO - user filled new address form with below information
+2023-02-26 16:05:22,573 - logger_File -INFO - User clicked Add Your Address button
+2023-02-26 16:05:51,486 - logger_File -INFO - user is on retail website
+2023-02-26 16:05:51,491 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-26 16:05:51,924 - logger_File -INFO - User clicked on Sign in Option
+2023-02-26 16:05:56,668 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-26 16:05:57,047 - logger_File -INFO - user clicked on login button
+2023-02-26 16:05:59,325 - logger_File -INFO - user clicked on Account option
+2023-02-26 16:05:59,519 - logger_File -INFO - User clicked on remove option of Address section
+2023-02-27 16:51:15,256 - logger_File -INFO - user is on retail website
+2023-02-27 16:51:15,261 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-27 16:51:15,703 - logger_File -INFO - User clicked on Sign in Option
+2023-02-27 16:51:17,882 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-27 16:51:19,237 - logger_File -INFO - user clicked on login button
+2023-02-27 16:51:22,684 - logger_File -INFO - user clicked on Account option
+2023-02-27 16:51:23,278 - logger_File -INFO - User clicked on Add address option
+2023-02-27 16:51:26,251 - logger_File -INFO - user filled new address form with below information
+2023-02-27 16:51:26,721 - logger_File -INFO - User clicked Add Your Address button
+2023-02-27 17:03:48,651 - logger_File -INFO - user is on retail website
+2023-02-27 17:03:48,656 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-27 17:03:49,107 - logger_File -INFO - User clicked on Sign in Option
+2023-02-27 17:03:52,242 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-27 17:03:53,159 - logger_File -INFO - user clicked on login button
+2023-02-27 17:03:56,163 - logger_File -INFO - user clicked on Account option
+2023-02-27 17:03:56,414 - logger_File -INFO - User clicked on edit address option
+2023-02-27 17:04:13,616 - logger_File -INFO - user filled new address form with below information
+2023-02-27 17:04:13,691 - logger_File -INFO - User clicked update Your Address button
+2023-02-27 17:09:27,327 - logger_File -INFO - user is on retail website
+2023-02-27 17:09:27,335 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-27 17:09:27,746 - logger_File -INFO - User clicked on Sign in Option
+2023-02-27 17:09:30,561 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-27 17:09:32,254 - logger_File -INFO - user clicked on login button
+2023-02-27 17:09:35,030 - logger_File -INFO - user clicked on Account option
+2023-02-27 17:09:35,328 - logger_File -INFO - User clicked on edit address option
+2023-02-27 17:09:45,234 - logger_File -INFO - user filled new address form with below information
+2023-02-27 17:09:45,381 - logger_File -INFO - User clicked update Your Address button
+2023-02-27 17:11:43,693 - logger_File -INFO - user is on retail website
+2023-02-27 17:11:43,699 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-27 17:11:44,116 - logger_File -INFO - User clicked on Sign in Option
+2023-02-27 17:11:46,244 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-27 17:11:47,750 - logger_File -INFO - user clicked on login button
+2023-02-27 17:11:50,938 - logger_File -INFO - user clicked on Account option
+2023-02-27 17:11:51,587 - logger_File -INFO - User clicked on edit address option
+2023-02-27 17:11:54,779 - logger_File -INFO - user filled new address form with below information
+2023-02-27 17:11:54,921 - logger_File -INFO - User clicked update Your Address button
+2023-02-27 17:13:19,120 - logger_File -INFO - user is on retail website
+2023-02-27 17:13:19,126 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-27 17:13:19,540 - logger_File -INFO - User clicked on Sign in Option
+2023-02-27 17:13:21,712 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-27 17:13:23,277 - logger_File -INFO - user clicked on login button
+2023-02-27 17:13:26,449 - logger_File -INFO - user clicked on Account option
+2023-02-27 17:13:27,010 - logger_File -INFO - User clicked on edit address option
+2023-02-27 17:13:30,679 - logger_File -INFO - user filled new address form with below information
+2023-02-27 17:13:31,133 - logger_File -INFO - User clicked update Your Address button
+2023-02-27 17:14:31,145 - logger_File -INFO - user is on retail website
+2023-02-27 17:14:31,151 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-27 17:14:31,568 - logger_File -INFO - User clicked on Sign in Option
+2023-02-27 17:14:35,844 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-27 17:14:36,453 - logger_File -INFO - user clicked on login button
+2023-02-27 17:14:38,688 - logger_File -INFO - user clicked on Account option
+2023-02-27 17:14:39,281 - logger_File -INFO - User clicked on edit address option
+2023-02-27 17:14:42,575 - logger_File -INFO - user filled new address form with below information
+2023-02-27 17:14:42,847 - logger_File -INFO - User clicked update Your Address button
+2023-02-27 17:22:47,954 - logger_File -INFO - user is on retail website
+2023-02-27 17:22:47,960 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-27 17:22:48,387 - logger_File -INFO - User clicked on Sign in Option
+2023-02-27 17:22:50,632 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-27 17:22:51,132 - logger_File -INFO - user clicked on login button
+2023-02-27 17:22:55,725 - logger_File -INFO - user clicked on Account option
+2023-02-27 17:22:56,296 - logger_File -INFO - user clicked on Edit option of card section
+2023-02-27 17:22:58,359 - logger_File -INFO - User filled Debid or credit card information
+2023-02-27 17:22:58,490 - logger_File -INFO - user clicked on Update Your Card button
+2023-02-27 17:22:59,576 - logger_File -INFO - message is displayed ‘Payment Method updated Successfully’"
+2023-02-27 17:25:21,900 - logger_File -INFO - user is on retail website
+2023-02-27 17:25:21,906 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-27 17:25:22,331 - logger_File -INFO - User clicked on Sign in Option
+2023-02-27 17:25:25,127 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-27 17:25:26,769 - logger_File -INFO - user clicked on login button
+2023-02-27 17:25:29,722 - logger_File -INFO - user clicked on Account option
+2023-02-27 17:25:30,412 - logger_File -INFO - User clicked on edit address option
+2023-02-27 17:25:33,918 - logger_File -INFO - user filled new address form with below information
+2023-02-27 17:25:34,393 - logger_File -INFO - User clicked update Your Address button
+2023-02-27 17:48:17,664 - logger_File -INFO - user is on retail website
+2023-02-27 17:48:17,671 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-27 17:48:18,162 - logger_File -INFO - User clicked on Sign in Option
+2023-02-27 17:48:20,098 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-27 17:48:21,169 - logger_File -INFO - user clicked on login button
+2023-02-27 17:48:25,409 - logger_File -INFO - user clicked on Account option
+2023-02-27 17:48:25,628 - logger_File -INFO - User clicked on remove option of Address section
+2023-02-27 17:56:18,133 - logger_File -INFO - user is on retail website
+2023-02-27 17:56:18,139 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-27 17:56:18,610 - logger_File -INFO - User clicked on Sign in Option
+2023-02-27 17:56:20,718 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-27 17:56:21,713 - logger_File -INFO - user clicked on login button
+2023-02-27 17:56:25,771 - logger_File -INFO - user clicked on Account option
