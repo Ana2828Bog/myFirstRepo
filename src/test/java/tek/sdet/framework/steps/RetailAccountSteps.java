@@ -200,6 +200,7 @@ public class RetailAccountSteps extends CommonUtility {
 	@Then("Address details should be removed")
 	public void addressDetailsShouldBeRemoved() {
 		Assert.assertFalse(isElementDisplayed(factory.accountPage().addressBox));
+		logger.info(factory);
 		
 	}
 	@When("User click on edit address option")

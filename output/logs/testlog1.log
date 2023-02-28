@@ -184,3 +184,49 @@
 2023-02-27 17:56:20,718 [main] INFO logger_File - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
 2023-02-27 17:56:21,713 [main] INFO logger_File - user clicked on login button
 2023-02-27 17:56:25,771 [main] INFO logger_File - user clicked on Account option
+2023-02-28 15:11:54,275 [main] INFO logger_File - user is on retail website
+2023-02-28 15:11:54,281 [main] INFO logger_File - Actual Title React App Equals  Expected Title React App
+2023-02-28 15:11:54,707 [main] INFO logger_File - User clicked on Sign in Option
+2023-02-28 15:11:55,708 [main] INFO logger_File - user entered email EmailValue and password PasswordValue
+2023-02-28 15:33:00,921 [main] INFO logger_File - user is on retail website
+2023-02-28 15:33:00,927 [main] INFO logger_File - Actual Title React App Equals  Expected Title React App
+2023-02-28 15:33:01,409 [main] INFO logger_File - User clicked on Sign in Option
+2023-02-28 15:33:03,266 [main] INFO logger_File - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-28 15:33:04,816 [main] INFO logger_File - user clicked on login button
+2023-02-28 15:33:08,485 [main] INFO logger_File - User clicked on Orders section
+2023-02-28 15:33:08,999 [main] INFO logger_File - User clicked on Cancel The Order button
+2023-02-28 15:33:09,160 [main] INFO logger_File - User selected the cancelation ReasonBought wrong item
+2023-02-28 15:33:09,424 [main] INFO logger_File - User clicked on Cancel Order button
+2023-02-28 15:53:46,128 [main] INFO logger_File - user is on retail website
+2023-02-28 15:53:46,133 [main] INFO logger_File - Actual Title React App Equals  Expected Title React App
+2023-02-28 15:53:46,547 [main] INFO logger_File - User clicked on Sign in Option
+2023-02-28 15:53:48,551 [main] INFO logger_File - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-28 15:53:49,352 [main] INFO logger_File - user clicked on login button
+2023-02-28 15:53:53,270 [main] INFO logger_File - User clicked on Orders section
+2023-02-28 15:53:53,701 [main] INFO logger_File - User clicked on Return Items button
+2023-02-28 15:53:53,955 [main] INFO logger_File - User select the Return Reason Item damaged
+2023-02-28 15:53:54,118 [main] INFO logger_File - User select the drop off service FedEx
+2023-02-28 15:59:44,548 [main] INFO logger_File - user is on retail website
+2023-02-28 15:59:44,555 [main] INFO logger_File - Actual Title React App Equals  Expected Title React App
+2023-02-28 15:59:44,955 [main] INFO logger_File - User clicked on Sign in Option
+2023-02-28 15:59:47,645 [main] INFO logger_File - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-28 15:59:48,880 [main] INFO logger_File - user clicked on login button
+2023-02-28 15:59:51,601 [main] INFO logger_File - User clicked on Orders section
+2023-02-28 16:02:22,666 [main] INFO logger_File - user is on retail website
+2023-02-28 16:02:22,672 [main] INFO logger_File - Actual Title React App Equals  Expected Title React App
+2023-02-28 16:02:23,071 [main] INFO logger_File - User clicked on Sign in Option
+2023-02-28 16:02:25,734 [main] INFO logger_File - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-28 16:02:27,771 [main] INFO logger_File - user clicked on login button
+2023-02-28 16:02:29,825 [main] INFO logger_File - User clicked on Orders section
+2023-02-28 16:02:30,345 [main] INFO logger_File - User clicked on Return Items button
+2023-02-28 16:02:30,587 [main] INFO logger_File - User select the Return Reason Item damaged
+2023-02-28 16:02:30,669 [main] INFO logger_File - User select the drop off service FedEx
+2023-02-28 16:02:30,739 [main] INFO logger_File - User clicked on Return Order button
+2023-02-28 16:33:21,698 [main] INFO logger_File - user is on retail website
+2023-02-28 16:33:21,703 [main] INFO logger_File - Actual Title React App Equals  Expected Title React App
+2023-02-28 16:33:22,118 [main] INFO logger_File - User clicked on Sign in Option
+2023-02-28 16:33:24,108 [main] INFO logger_File - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-28 16:33:24,492 [main] INFO logger_File - user clicked on login button
+2023-02-28 16:33:28,762 [main] INFO logger_File - User clicked on Orders section
+2023-02-28 16:33:29,350 [main] INFO logger_File - User clicked on Review button
+2023-02-28 16:33:31,724 [main] INFO logger_File - User clicked Add your Review button

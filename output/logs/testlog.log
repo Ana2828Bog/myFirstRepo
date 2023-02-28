@@ -184,3 +184,49 @@
 2023-02-27 17:56:20,718 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
 2023-02-27 17:56:21,713 - logger_File -INFO - user clicked on login button
 2023-02-27 17:56:25,771 - logger_File -INFO - user clicked on Account option
+2023-02-28 15:11:54,275 - logger_File -INFO - user is on retail website
+2023-02-28 15:11:54,281 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-28 15:11:54,707 - logger_File -INFO - User clicked on Sign in Option
+2023-02-28 15:11:55,708 - logger_File -INFO - user entered email EmailValue and password PasswordValue
+2023-02-28 15:33:00,921 - logger_File -INFO - user is on retail website
+2023-02-28 15:33:00,927 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-28 15:33:01,409 - logger_File -INFO - User clicked on Sign in Option
+2023-02-28 15:33:03,266 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-28 15:33:04,816 - logger_File -INFO - user clicked on login button
+2023-02-28 15:33:08,485 - logger_File -INFO - User clicked on Orders section
+2023-02-28 15:33:08,999 - logger_File -INFO - User clicked on Cancel The Order button
+2023-02-28 15:33:09,160 - logger_File -INFO - User selected the cancelation ReasonBought wrong item
+2023-02-28 15:33:09,424 - logger_File -INFO - User clicked on Cancel Order button
+2023-02-28 15:53:46,128 - logger_File -INFO - user is on retail website
+2023-02-28 15:53:46,133 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-28 15:53:46,547 - logger_File -INFO - User clicked on Sign in Option
+2023-02-28 15:53:48,551 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-28 15:53:49,352 - logger_File -INFO - user clicked on login button
+2023-02-28 15:53:53,270 - logger_File -INFO - User clicked on Orders section
+2023-02-28 15:53:53,701 - logger_File -INFO - User clicked on Return Items button
+2023-02-28 15:53:53,955 - logger_File -INFO - User select the Return Reason Item damaged
+2023-02-28 15:53:54,118 - logger_File -INFO - User select the drop off service FedEx
+2023-02-28 15:59:44,548 - logger_File -INFO - user is on retail website
+2023-02-28 15:59:44,555 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-28 15:59:44,955 - logger_File -INFO - User clicked on Sign in Option
+2023-02-28 15:59:47,645 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-28 15:59:48,880 - logger_File -INFO - user clicked on login button
+2023-02-28 15:59:51,601 - logger_File -INFO - User clicked on Orders section
+2023-02-28 16:02:22,666 - logger_File -INFO - user is on retail website
+2023-02-28 16:02:22,672 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-28 16:02:23,071 - logger_File -INFO - User clicked on Sign in Option
+2023-02-28 16:02:25,734 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-28 16:02:27,771 - logger_File -INFO - user clicked on login button
+2023-02-28 16:02:29,825 - logger_File -INFO - User clicked on Orders section
+2023-02-28 16:02:30,345 - logger_File -INFO - User clicked on Return Items button
+2023-02-28 16:02:30,587 - logger_File -INFO - User select the Return Reason Item damaged
+2023-02-28 16:02:30,669 - logger_File -INFO - User select the drop off service FedEx
+2023-02-28 16:02:30,739 - logger_File -INFO - User clicked on Return Order button
+2023-02-28 16:33:21,698 - logger_File -INFO - user is on retail website
+2023-02-28 16:33:21,703 - logger_File -INFO - Actual Title React App Equals  Expected Title React App
+2023-02-28 16:33:22,118 - logger_File -INFO - User clicked on Sign in Option
+2023-02-28 16:33:24,108 - logger_File -INFO - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-28 16:33:24,492 - logger_File -INFO - user clicked on login button
+2023-02-28 16:33:28,762 - logger_File -INFO - User clicked on Orders section
+2023-02-28 16:33:29,350 - logger_File -INFO - User clicked on Review button
+2023-02-28 16:33:31,724 - logger_File -INFO - User clicked Add your Review button
