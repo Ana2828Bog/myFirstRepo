@@ -230,3 +230,11 @@
 2023-02-28 16:33:28,762 [main] INFO logger_File - User clicked on Orders section
 2023-02-28 16:33:29,350 [main] INFO logger_File - User clicked on Review button
 2023-02-28 16:33:31,724 [main] INFO logger_File - User clicked Add your Review button
+2023-02-28 19:25:33,208 [main] INFO logger_File - user is on retail website
+2023-02-28 19:25:33,213 [main] INFO logger_File - Actual Title React App Equals  Expected Title React App
+2023-02-28 19:25:33,748 [main] INFO logger_File - User clicked on Sign in Option
+2023-02-28 19:25:35,607 [main] INFO logger_File - user entered email ana.bog2888@gmail.com and password Ana_bOg2828
+2023-02-28 19:25:36,042 [main] INFO logger_File - user clicked on login button
+2023-02-28 19:25:40,668 [main] INFO logger_File - User clicked on Orders section
+2023-02-28 19:25:41,305 [main] INFO logger_File - User clicked on Review button
+2023-02-28 19:25:43,625 [main] INFO logger_File - User clicked Add your Review button
