@@ -72,26 +72,29 @@ public class RetailOrderSteps extends CommonUtility {
 		waitTillPresence(factory.orderPage().returtWasSuccessfull);
 		Assert.assertTrue(isElementDisplayed(factory.orderPage().returtWasSuccessfull));
 	}
-	
+
 	@When("User click on Review button")
 	public void userClickOnReviewButton() {
-	    click(factory.orderPage().reviewButton);
-	    logger.info("User clicked on Review button");
+		click(factory.orderPage().reviewButton);
+		logger.info("User clicked on Review button");
 	}
+
 	@When("User write Review headline {string} and {string}")
 	public void userWriteReviewHeadlineAnd(String headlineValue, String reviewText) {
-	     sendText(factory.orderPage().headlineInputField, headlineValue);
-	     sendText(factory.orderPage().desctiptionField, reviewText);
+		sendText(factory.orderPage().headlineInputField, headlineValue);
+		sendText(factory.orderPage().desctiptionField, reviewText);
 	}
+
 	@When("User click Add your Review button")
 	public void userClickAddYourReviewButton() {
-	    click(factory.orderPage().reviewSubmitButton);
-	    logger.info("User clicked Add your Review button");
+		click(factory.orderPage().reviewSubmitButton);
+		logger.info("User clicked Add your Review button");
 	}
+
 	@Then("a review message should be displayed ‘Your review was added successfully’")
 	public void aReviewMessageShouldBeDisplayedYourReviewWasAddedSuccessfully() {
 		waitTillPresence(factory.orderPage().yourReviewWasAddedSuccessfully);
-	    Assert.assertTrue(isElementDisplayed(factory.orderPage().yourReviewWasAddedSuccessfully));
+		Assert.assertTrue(isElementDisplayed(factory.orderPage().yourReviewWasAddedSuccessfully));
 	}
 
 }

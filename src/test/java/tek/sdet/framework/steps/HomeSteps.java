@@ -14,7 +14,6 @@ import io.cucumber.java.en.When;
 import tek.sdet.framework.pages.POMFactory;
 import tek.sdet.framework.utilities.CommonUtility;
 
-
 public class HomeSteps extends CommonUtility {
 	private POMFactory factory = new POMFactory();
 
@@ -199,7 +198,5 @@ public class HomeSteps extends CommonUtility {
 		Assert.assertTrue(isElementDisplayed(factory.homePage().orderPlacedThanks));
 		logger.info("a message is displayed ‘Order Placed, Thanks’");
 	}
-	
-	
 
 }
