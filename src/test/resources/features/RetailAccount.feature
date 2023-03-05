@@ -45,7 +45,7 @@ Feature: Retail Application Account Feature
     And User click on Card in the Wallet
     And User click on remove option of card section
     Then payment details should be removed
-
+@TestRun
   Scenario: Verify User can add an Address
     When User click on Account option
     And User click on Add address option

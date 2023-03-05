@@ -134,5 +134,9 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(xpath = "//div[contains(text(),'Address Updated Successfully')]")
 	public WebElement addressUpdatedSuccessfully;
 	
+	@FindBy(xpath = "//body/div[@id='root']/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]")
+	public List<WebElement> addressesList;
+	
 
+	
 }

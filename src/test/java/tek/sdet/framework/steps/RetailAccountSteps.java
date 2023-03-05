@@ -4,7 +4,9 @@ import java.util.List;
 import java.util.Map;
 
 import org.junit.Assert;
+import org.openqa.selenium.By;
 import org.openqa.selenium.StaleElementReferenceException;
+import org.openqa.selenium.WebElement;
 
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.Then;
@@ -198,21 +200,24 @@ public class RetailAccountSteps extends CommonUtility {
 	}
 
 	@Then("Address details should be removed")
-	public void addressDetailsShouldBeRemoved() {
-		Assert.assertFalse(isElementDisplayed(factory.accountPage().addressBox));
-		logger.info(factory);
-		
+	public void addressDetailsShouldBeRemoved(DataTable dataTable) {
+		Assert.assertTrue(getDriver()
+				.findElements(By.xpath("//div[@class='account__payment-selected account__payment-item']")).isEmpty());
+
 	}
+
 	@When("User click on edit address option")
 	public void userClickOnEditAddressOption() {
-	     click(factory.accountPage().editAddressButton);
-	     logger.info("User clicked on edit address option");
+		click(factory.accountPage().editAddressButton);
+		logger.info("User clicked on edit address option");
 	}
+
 	@When("User click update Your Address button")
 	public void userClickUpdateYourAddressButton() {
-	     click(factory.accountPage().updateYourAddressButton);
-	     logger.info("User clicked update Your Address button");
+		click(factory.accountPage().updateYourAddressButton);
+		logger.info("User clicked update Your Address button");
 	}
+
 	@Then("a message should be displayed ‘Address Updated Successfully’")
 	public void aMessageShouldBeDisplayedAddressUpdatedSuccessfully() {
 		waitTillPresence(factory.accountPage().addressUpdatedSuccessfully);
