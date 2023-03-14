@@ -123,6 +123,7 @@ public class HomeSteps extends CommonUtility {
 	@When("User click on item")
 	public void userClickOnItem() {
 		click(factory.homePage().kasaOutdoorSmartPlug);
+		logger.info("User clicked on item ");
 	}
 
 	@When("User select quantity {string}")
@@ -193,10 +194,15 @@ public class HomeSteps extends CommonUtility {
 		logger.info("User click on Place Your Order");
 	}
 
-	@Then("a message should be displayed Order Placed, Thanks’")
+	@Then("a message should be displayed ‘Order Placed, Thanks’")
 	public void aMessageShouldBeDisplayedOrderPlacedThanks() {
 		Assert.assertTrue(isElementDisplayed(factory.homePage().orderPlacedThanks));
 		logger.info("a message is displayed ‘Order Placed, Thanks’");
 	}
 
+	@When("User click on item {string}")
+	public void userClickOnItem(String item) {
+		click(factory.homePage().apexLegends);
+		logger.info("User click on item + " + item);
+	}
 }

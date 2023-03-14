@@ -1,3 +1,4 @@
+@testRun
 Feature: Retail Home Page
 
   Scenario: Verify Shop by Department sidebar
@@ -61,9 +62,9 @@ Feature: Retail Home Page
       | 1234567890123456 | Ana boh    |               5 |           2038 |          665 |
     And User click on Add your card button
     And User click on Place Your Order
-    Then a message should be displayed Order Placed, Thanks’
+    Then a message should be displayed ‘Order Placed, Thanks’
     
-    @smokeTest
+ 
     Scenario: Verify User can place an order with Shipping address and payment Method on file
     Given User is on retail website
     When User click on Sign in option
@@ -71,9 +72,9 @@ Feature: Retail Home Page
     And User click on login button
     And User should be logged in into Account
     And User change the category to 'Electronics'
-    And User search for an item 'Apex Legends '
+    And User search for an item 'Apex Legends'
     And User click on Search icon
-    And User click on item 
+    And User click on item 'Apex Legends'
     And User select quantity '5'
     And User click add to Cart button 
     Then the cart icon quantity should change to '5'

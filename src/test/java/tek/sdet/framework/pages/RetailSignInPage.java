@@ -24,7 +24,7 @@ public class RetailSignInPage extends BaseSetup{
 	@FindBy(xpath = "//button[text()='Login']")
 	public WebElement loginPageButton;
 	
-	@FindBy(linkText = "Create New Account")
+	@FindBy(id = "newAccountBtn")
 	public WebElement createNewAccountButton;
 	
 	@FindBy(id = "newCompanyAccount")
@@ -39,7 +39,7 @@ public class RetailSignInPage extends BaseSetup{
 	@FindBy(id = "passwordInput")
 	public WebElement signUpPasswordField;
 	
-	@FindBy(xpath = "//input[@name='confirmPassword")
+	@FindBy(xpath = "//input[@name='confirmPassword']")
 	public WebElement signUpConfirmPassField;
 	
 	@FindBy(xpath = "//button[text()='Sign Up']")

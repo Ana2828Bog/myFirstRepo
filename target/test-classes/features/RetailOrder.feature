@@ -1,3 +1,4 @@
+
 Feature: Retail Order Page
 
   
@@ -27,7 +28,7 @@ Feature: Retail Order Page
     And User click on Return Order button
     Then a cancelation message should be displayed ‘Return was successful’
 
-    @testRun
+ 
     Scenario: Verify User can write a review on order placed
     Given User is on retail website
     When User click on Sign in option

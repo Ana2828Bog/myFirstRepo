@@ -1,3 +1,4 @@
+
 Feature: Retail Application Account Feature
 
   Background: 
@@ -6,7 +7,7 @@ Feature: Retail Application Account Feature
     And User enter email 'ana.bog2888@gmail.com' and password 'Ana_bOg2828'
     And User click on login button
     Then User should be logged in into Account
-
+  
   Scenario: Verify User can update Profile Information
     When User click on Account option
     And User update Name 'John' and Phone '1012028855'
@@ -15,6 +16,11 @@ Feature: Retail Application Account Feature
 
   Scenario: Verify User can Update password
     When User click on Account option
+    And User enter below information
+      | previousPassword | newPassword | confirmPassword |
+      | Ana_bOg2828      | ana_bOg2828 | ana_bOg2828     |
+    And User click on Change Password button
+    Then a message should be displayed ‘Password Updated Successfully’
     And User enter below information
       | previousPassword | newPassword | confirmPassword |
       | ana_bOg2828      | Ana_bOg2828 | Ana_bOg2828     |
@@ -45,7 +51,7 @@ Feature: Retail Application Account Feature
     And User click on Card in the Wallet
     And User click on remove option of card section
     Then payment details should be removed
-@TestRun
+
   Scenario: Verify User can add an Address
     When User click on Account option
     And User click on Add address option
@@ -62,7 +68,7 @@ Feature: Retail Application Account Feature
     And User click update Your Address button
     Then a message should be displayed ‘Address Updated Successfully’
 
-  @dryRun
+
   Scenario: Verify User can remove Address from Account
     When User click on Account option
     And User click on remove option of Address section

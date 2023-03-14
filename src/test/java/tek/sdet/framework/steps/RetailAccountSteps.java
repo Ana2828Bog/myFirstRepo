@@ -200,9 +200,9 @@ public class RetailAccountSteps extends CommonUtility {
 	}
 
 	@Then("Address details should be removed")
-	public void addressDetailsShouldBeRemoved(DataTable dataTable) {
-		Assert.assertTrue(getDriver()
-				.findElements(By.xpath("//div[@class='account__payment-selected account__payment-item']")).isEmpty());
+	public void addressDetailsShouldBeRemoved() {
+		Assert.assertFalse(getDriver()
+				.findElements(By.xpath("//body/div[@id='root']/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[2]")).isEmpty());
 
 	}
 

@@ -46,7 +46,7 @@ public class SignInSteps extends CommonUtility {
 		logger.info("user clicked on Create New Account Button");
 	}
 	
-	@When("User fill the signUp information with bellow data")
+	@When("User fill the signUp information with below data")
 	public void userFillTheSignUpInformationWithBelowData(DataTable dataTable) {
 		List<Map<String, String>> signUpInformation = dataTable.asMaps(String.class, String.class);
 		sendText(factory.signInPage().signUpNameField,signUpInformation.get(0).get("name"));

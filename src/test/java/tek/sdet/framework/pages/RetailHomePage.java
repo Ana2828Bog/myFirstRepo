@@ -122,4 +122,7 @@ public class RetailHomePage extends BaseSetup{
 	@FindBy(xpath = "//p[contains(text(),'Order Placed, Thanks')]")
 	public WebElement orderPlacedThanks;
 	
+	@FindBy(xpath = "//p[contains(text(),'Apex Legends - 1,000 Apex Coins')]")
+	public WebElement apexLegends; 
+	
 }
